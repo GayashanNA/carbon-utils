@@ -32,7 +32,7 @@ import org.apache.log4j.net.SyslogAppender;
 import org.wso2.carbon.base.ServerConfiguration;
 import org.wso2.carbon.context.CarbonContext;
 import org.wso2.carbon.core.util.SystemFilter;
-import org.wso2.carbon.logging.appenders.CircularBuffer;
+import org.wso2.carbon.utils.logging.CircularBuffer;
 import org.wso2.carbon.logging.service.LogViewerException;
 import org.wso2.carbon.logging.service.appender.CarbonMemoryAppender;
 import org.wso2.carbon.logging.service.appender.LogEventAppender;
